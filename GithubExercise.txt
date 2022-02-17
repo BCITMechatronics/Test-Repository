@@ -33,3 +33,9 @@
   Casting his eyes downward Andrew assessed the ground and found it too hard and rocky
   to be able to properly illustrate what would surely be a masterpiece of a state diagram.
   Upon this realization Andrew set off in search of ground more favourable for drawing on.
+
+  After a few minutes of walking, he came upon a beautiful clearing that looked like this: 
+  https://youtu.be/xvFZjo5PgG0
+  It was there that he drew a beautiful state diagram in the dirt. After that a tribe of 
+  chimpanzees lead by Rhys messed up his state diagram. "On to a new location" Andrew 
+  thought to himself.
