@@ -226,8 +226,13 @@ I am editing this live in front of the class.
 
 I edited it again
 
-Testing, Testing, 123, 123
+<<<<<<< HEAD
 
+<<<<<<< HEAD
+kg
+=======
+Testing, Testing, 123, 123
+=======
 :)
 
 Cool people add dinosaurs to their files.
@@ -275,3 +280,7 @@ Cool people add dinosaurs to their files.
 Velociraptor          (_~~   ~~___)\_/ |  
 Art by -Row           (_~~   ~~___)\_/ |   
                       { ~~   ~~   }/ \ l
+>>>>>>> 8acc3e17258dafaa482070df488c935131d1c40c
+
+
+kg
