@@ -1,4 +1,4 @@
-/*|Github Exercise|------------------------------------------------------------
+﻿/*|Github Exercise|------------------------------------------------------------
 #
 # Project: Github Execise for fun
 # Program: GithubExercise.txt
@@ -216,4 +216,12 @@ Credit: https://ascii.co.uk/art/stegosaurus
 
 
 
+<<<<<<< HEAD
 Hi 
+=======
+I am editing this live in front of the class. 
+
+I edited it again
+
+Testing, Testing, 123, 123
+>>>>>>> 1085299cd438e125f3417f5d50cc8146a5785574
