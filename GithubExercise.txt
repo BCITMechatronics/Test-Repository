@@ -217,6 +217,11 @@ Credit: https://ascii.co.uk/art/stegosaurus
 
 
 
+
+(o_o)   
+ <) )╯      
+  / \  
+=======
 I am editing this live in front of the class. 
 
 I edited it again
@@ -241,7 +246,11 @@ Cool people add dinosaurs to their files.
                          <+       \\
                           \\      WWW
                           MMM             -Bryn R.-
+<<<<<<< HEAD
+>>>>>>> 62eb01dcd837008dcde34a643e2ec669d0d28825
+=======
 
 
 
                           aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> origin/localtoAutumn
