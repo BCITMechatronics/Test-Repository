@@ -1,4 +1,4 @@
-/*|Github Exercise|------------------------------------------------------------
+﻿/*|Github Exercise|------------------------------------------------------------
 #
 # Project: Github Execise for fun
 # Program: GithubExercise.txt
@@ -220,5 +220,9 @@ I am editing this live in front of the class.
 
 I edited it again
 
+<<<<<<< HEAD
 
 kg
+=======
+Testing, Testing, 123, 123
+>>>>>>> 1085299cd438e125f3417f5d50cc8146a5785574
