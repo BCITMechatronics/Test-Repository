@@ -1,4 +1,4 @@
-/*|Github Exercise|------------------------------------------------------------
+﻿/*|Github Exercise|------------------------------------------------------------
 #
 # Project: Github Execise for fun
 # Program: GithubExercise.txt
@@ -114,6 +114,8 @@ With newfound determination, Andrew returned to his state diagram, his hand stea
 
 testestest
 
+Hello - Sydney
+
 onedrive is better
 I made a edit but the someone ated it
 =======
@@ -160,7 +162,6 @@ Anyway thats just a little bit about me see you later!
 I am Aceeeeee Please give me some Ice Cap
 
 hatsune miku
-
 
 https://img.freepik.com/premium-photo/monkey-suit-with-red-suit_579873-5164.jpg
 Enjoy!
@@ -217,19 +218,32 @@ Credit: https://ascii.co.uk/art/stegosaurus
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 (o_o)   
  <) )╯      
   / \  
+=======
+I am editing this live in front of the class. 
+
+I edited it again
+
+Testing, Testing, 123, 123
+
+Cool people add dinosaurs to their files.
+                           <\              _
+                            \\          _/{
+                     _       \\       _-   -_
+                   /{        / `\   _-     - -_
+                 _~  =      ( @  \ -        -  -_
+               _- -   ~-_   \( =\ \           -  -_
+             _~  -       ~_ | 1 :\ \      _-~-_ -  -_
+           _-   -          ~  |V: \ \  _-~     ~-_-  -_
+        _-~   -            /  | :  \ \            ~-_- -_
+     _-~    -   _.._      {   | : _-``               ~- _-_
+  _-~   -__..--~    ~-_  {   : \:}
+=~__.--~~              ~-_\  :  /
+                           \ : /__
+                          //`Y'--\\      =
+                         <+       \\
+                          \\      WWW
+                          MMM             -Bryn R.-
+>>>>>>> 62eb01dcd837008dcde34a643e2ec669d0d28825
